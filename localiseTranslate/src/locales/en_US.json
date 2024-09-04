@@ -1,5 +1,5 @@
 {
     "welcome_header": "Hello world!",
     "welcone_body": "body",
-    "common.button": "Button"
+    "common.button": "Button {0}"
 }
